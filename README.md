@@ -1,6 +1,6 @@
 <h2> #PROJECT | #PROJETO </h2>
 ---------------------------------<strong>ENGLISH</strong>----------------------------------------<br/>
-This is a little project that search images according the text that user type on input.
+This is a little project that search images according the text that user type on input. <br/>
 ---------------------------------<strong>PORTUGUESE</strong>----------------------------------------<br/>
 Esse é um pequeno projeto que busca imagens de acordo com o texto que o usuário digita no input.
 
