@@ -1,7 +1,7 @@
 <h2> #PROJECT | #PROJETO </h2>
----------------------------------<strong>ENGLISH</strong>----------------------------------------
+---------------------------------<strong>ENGLISH</strong>----------------------------------------<br/>
 This is a little project that search images according the text that user type on input.
----------------------------------<strong>PORTUGUESE</strong>----------------------------------------
+---------------------------------<strong>PORTUGUESE</strong>----------------------------------------<br/>
 Esse é um pequeno projeto que busca imagens de acordo com o texto que o usuário digita no input.
 
 <h2> #TECHNOLOGIES | #TECNOLOGIAS </h2>
