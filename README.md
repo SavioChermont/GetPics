@@ -1,8 +1,13 @@
 <h2> #PROJECT | #PROJETO </h2>
+<p>
 ---------------------------------<strong>ENGLISH</strong>----------------------------------------<br/>
 This is a little project that search images according the text that user type on input. <br/>
+</p>
+
+<p>
 ---------------------------------<strong>PORTUGUESE</strong>----------------------------------------<br/>
 Esse é um pequeno projeto que busca imagens de acordo com o texto que o usuário digita no input.
+</p>
 
 <h2> #TECHNOLOGIES | #TECNOLOGIAS </h2>
 *Javascript: ReactJS <br/>
